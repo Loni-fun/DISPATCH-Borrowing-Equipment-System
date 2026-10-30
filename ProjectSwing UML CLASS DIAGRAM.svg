@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2422.0pt" height="2472.0pt" viewBox="0 0 2422.0 2472.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplNDI5OGFiMC00MTBlLTRkMWEtOTIyMy1lM2Q2Mzk5MTYxYjEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaO7bD4x/UuXG++CdsKJiZP4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4OGNhYzAzZC0zOGM2LTQ4OGYtYWE0Yi04YzNlZTI1OTcyMDFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNodtCx+CxpROFAaObUYzgbGAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg3e0mbS9CgBskv0NWrci7fpy9SCauwdr1zeK95xqKtBikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEpvoLtXqc+N8CxIHgmKwLcAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIBM9XrSlEBbtO8A3sMajWxb4Hy7BbCPkdeOoTsswUox1ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEIZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmU0Mjk4YWIwLTQxMGUtNGQxYS05MjIzLWUzZDYzOTkxNjFiMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmE3ZTM4NjYzLWYxZjMtNDhiYy1hZWU1LTU2Mzk5ZjYxNWE0MHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDd7SZtL0KAGyS/Q1atyLt+nL1IJq7B2vXN4r3nGoq0GKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggnsddahBrFwCQJvYRYdmR/Gk26KjigGQrNEY4yXOlyhyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggv+k3uuDc9g/vacNcPfh0beMuqEfnwFsV18UhguDHRGx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQH3tsWeEENP+yy3Hu5X0Tg/lEM71kTLfDLRngTecPiO7QxzWpZJ55AiNk2uMhJZ1iPCGSrd34Me9/XpwGFnsTLA=</c2pa:manifest></metadata>
+<defs>
+<marker id="tri" viewBox="0 -8 16 16" refX="15" refY="0" markerWidth="16" markerHeight="16" markerUnits="userSpaceOnUse" orient="auto"><polygon points="0,-7 15,0 0,7" fill="#ffffff" stroke="#444444" stroke-width="1.5" stroke-dasharray="none"/></marker>
+<marker id="vee" viewBox="0 -8 16 16" refX="15" refY="0" markerWidth="16" markerHeight="16" markerUnits="userSpaceOnUse" orient="auto"><polygon points="0,-6 15,0 0,6 4,0" fill="#444444" stroke="#444444" stroke-width="1" stroke-dasharray="none"/></marker>
+<marker id="dia" viewBox="0 -8 20 16" refX="1" refY="0" markerWidth="20" markerHeight="16" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><polygon points="0,0 9,-6 18,0 9,6" fill="#444444" stroke="#444444" stroke-width="1"/></marker>
+</defs>
+<rect x="0" y="0" width="2422.0" height="2472.0" fill="#FAFAFA" stroke="#888888" stroke-width="1.5" rx="14"/>
+<text x="18" y="42" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="bold">ProjectSwing</text>
+<g id="edges" fill="none" stroke="#444444" stroke-width="1.3" stroke-linejoin="round">
+<path d="M490.0,140.0 L490.0,200.0" marker-end="url(#vee)"/>
+<path d="M566.0,230.0 L740.0,230.0" stroke-dasharray="6,4" marker-end="url(#tri)"/>
+<path d="M490.0,572.0 L490.0,630.0"/>
+<path d="M490.0,630.0 L243.0,630.0 L243.0,690.0" marker-end="url(#vee)"/>
+<path d="M490.0,630.0 L869.0,630.0 L869.0,690.0" marker-end="url(#vee)"/>
+<path d="M116.0,1134.0 L116.0,1214.0" stroke-dasharray="6,4" marker-end="url(#vee)"/>
+<path d="M250.0,1134.0 L250.0,1214.0" stroke-dasharray="6,4" marker-end="url(#vee)"/>
+<path d="M400.0,1134.0 L400.0,1214.0"/>
+<path d="M660.0,1340.0 L469.0,1340.0"/>
+<path d="M740.0,1606.0 L740.0,1810.0"/>
+<path d="M940.0,1606.0 L940.0,1730.0 L1309.0,1730.0 L1309.0,1810.0"/>
+<path d="M1040.0,1606.0 L1040.0,1660.0" stroke-dasharray="6,4"/>
+<path d="M1040.0,1660.0 L1566.0,1660.0 L1566.0,1810.0" stroke-dasharray="6,4" marker-end="url(#vee)"/>
+<path d="M1040.0,1660.0 L1766.0,1660.0 L1766.0,1810.0" stroke-dasharray="6,4" marker-end="url(#vee)"/>
+<path d="M1040.0,1660.0 L1989.0,1660.0 L1989.0,1810.0" stroke-dasharray="6,4" marker-end="url(#vee)"/>
+<path d="M250.0,1280.0 L250.0,2015.0 L660.0,2015.0" stroke-dasharray="6,4" marker-end="url(#vee)"/>
+<path d="M1126.0,1890.0 L1186.0,1890.0" marker-end="url(#vee)"/>
+<path d="M890.0,2220.0 L890.0,2300.0" marker-end="url(#vee)"/>
+<path d="M1840.0,496.0 L1840.0,560.0"/>
+<path d="M1573.0,610.0 L1573.0,560.0 L2097.0,560.0 L2097.0,610.0"/>
+<path d="M1840.0,610.0 L1840.0,560.0"/>
+<path d="M1840.0,560.0 L1840.0,496.0" marker-end="url(#tri)"/>
+<path d="M1840.0,350.0 L1840.0,278.0" stroke-dasharray="6,4" marker-end="url(#tri)"/>
+<path d="M1772.0,423.0 L1402.0,423.0 L1402.0,990.0" marker-end="url(#vee)"/>
+<path d="M1780.0,812.0 L1780.0,990.0" stroke-dasharray="6,4" marker-end="url(#vee)"/>
+<path d="M1840.0,812.0 L1840.0,930.0 L2070.0,930.0 L2070.0,990.0" stroke-dasharray="6,4" marker-end="url(#vee)"/>
+<path d="M2097.0,796.0 L2097.0,990.0" stroke-dasharray="6,4" marker-end="url(#vee)"/>
+<path d="M2194.0,650.0 L2270.0,650.0" stroke-dasharray="6,4" marker-end="url(#tri)"/>
+<path d="M1900.0,812.0 L1900.0,860.0 L2326.0,860.0" stroke-dasharray="6,4"/>
+<path d="M1402.0,1192.0 L1402.0,1340.0 L2326.0,1340.0" stroke-dasharray="6,4"/>
+<path d="M2086.0,1895.0 L2326.0,1895.0" stroke-dasharray="6,4"/>
+<path d="M1309.0,2140.0 L1309.0,2270.0 L2326.0,2270.0" stroke-dasharray="6,4"/>
+<path d="M1040.0,2220.0 L1040.0,2270.0 L1309.0,2270.0" stroke-dasharray="6,4"/>
+<path d="M2326.0,2270.0 L2326.0,686.0" stroke-dasharray="6,4" marker-end="url(#tri)"/>
+<polygon points="400.0,1134.0 394.5,1143.0 400.0,1152.0 405.5,1143.0" fill="#444444" stroke="#444444" stroke-width="1"/>
+<polygon points="660.0,1340.0 651.0,1334.5 642.0,1340.0 651.0,1345.5" fill="#444444" stroke="#444444" stroke-width="1"/>
+<polygon points="740.0,1606.0 734.5,1615.0 740.0,1624.0 745.5,1615.0" fill="#444444" stroke="#444444" stroke-width="1"/>
+<polygon points="940.0,1606.0 934.5,1615.0 940.0,1624.0 945.5,1615.0" fill="#444444" stroke="#444444" stroke-width="1"/>
+</g>
+<g transform="translate(36.0 2698.0)">
+<g id="node1" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="416,-2558 416,-2608 492,-2608 492,-2558 416,-2558"/>
+<polygon fill="#e8eef7" stroke="transparent" points="417,-2583 417,-2607 491,-2607 491,-2583 417,-2583"/>
+<text text-anchor="start" x="436" y="-2592.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">Main</text>
+<text text-anchor="start" x="453" y="-2577.8" font-family="Helvetica,sans-Serif" font-size="4.00"> </text>
+<text text-anchor="start" x="419" y="-2564.2" font-family="Helvetica,sans-Serif" font-size="11.00">+main(args)</text>
+<polygon fill="#555555" stroke="#555555" points="416,-2583 416,-2583 492,-2583 492,-2583 416,-2583"/>
+<polygon fill="#555555" stroke="#555555" points="416,-2575 416,-2575 492,-2575 492,-2575 416,-2575"/>
+<polygon fill="none" stroke="#555555" points="416,-2558 416,-2608 492,-2608 492,-2558 416,-2558"/>
+</g>
+</g>
+<g transform="translate(36.0 2510.0)">
+<g id="node5" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="378,-1938 378,-2310 530,-2310 530,-1938 378,-1938"/>
+<polygon fill="#e8eef7" stroke="transparent" points="379,-2275 379,-2309 529,-2309 529,-2275 379,-2275"/>
+<text text-anchor="start" x="431" y="-2296.2" font-family="Helvetica,sans-Serif" font-size="11.00">«JPanel»</text>
+<text text-anchor="start" x="416" y="-2283.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">LoginPage</text>
+<text text-anchor="start" x="381" y="-2264.2" font-family="Helvetica,sans-Serif" font-size="11.00">~frame: JFrame</text>
+<text text-anchor="start" x="381" y="-2248.2" font-family="Helvetica,sans-Serif" font-size="11.00">~layout: CardLayout</text>
+<text text-anchor="start" x="381" y="-2232.2" font-family="Helvetica,sans-Serif" font-size="11.00">~Panel: JPanel</text>
+<text text-anchor="start" x="381" y="-2216.2" font-family="Helvetica,sans-Serif" font-size="11.00">~login: JPanel</text>
+<text text-anchor="start" x="381" y="-2200.2" font-family="Helvetica,sans-Serif" font-size="11.00">~signup: JPanel</text>
+<text text-anchor="start" x="381" y="-2184.2" font-family="Helvetica,sans-Serif" font-size="11.00">~tRegister: JLabel</text>
+<text text-anchor="start" x="381" y="-2168.2" font-family="Helvetica,sans-Serif" font-size="11.00">~forgotPass: JLabel</text>
+<text text-anchor="start" x="381" y="-2152.2" font-family="Helvetica,sans-Serif" font-size="11.00">~typeId: JTextField</text>
+<text text-anchor="start" x="381" y="-2136.2" font-family="Helvetica,sans-Serif" font-size="11.00">~typePass: JPasswordField</text>
+<text text-anchor="start" x="381" y="-2120.2" font-family="Helvetica,sans-Serif" font-size="11.00">~pLogin: JButton</text>
+<text text-anchor="start" x="381" y="-2104.2" font-family="Helvetica,sans-Serif" font-size="11.00">~backToLogin: JLabel</text>
+<text text-anchor="start" x="381" y="-2088.2" font-family="Helvetica,sans-Serif" font-size="11.00">~FName: JTextField</text>
+<text text-anchor="start" x="381" y="-2072.2" font-family="Helvetica,sans-Serif" font-size="11.00">~LName: JTextField</text>
+<text text-anchor="start" x="381" y="-2056.2" font-family="Helvetica,sans-Serif" font-size="11.00">~MName: JTextField</text>
+<text text-anchor="start" x="381" y="-2040.2" font-family="Helvetica,sans-Serif" font-size="11.00">~IDInput: JTextField</text>
+<text text-anchor="start" x="381" y="-2024.2" font-family="Helvetica,sans-Serif" font-size="11.00">~pass: JPasswordField</text>
+<text text-anchor="start" x="381" y="-2008.2" font-family="Helvetica,sans-Serif" font-size="11.00">~conPass: JPasswordField</text>
+<text text-anchor="start" x="381" y="-1992.2" font-family="Helvetica,sans-Serif" font-size="11.00">~bRegister: JButton</text>
+<text text-anchor="start" x="381" y="-1976.2" font-family="Helvetica,sans-Serif" font-size="11.00">+showLogin()</text>
+<text text-anchor="start" x="381" y="-1960.2" font-family="Helvetica,sans-Serif" font-size="11.00">+login()</text>
+<text text-anchor="start" x="381" y="-1944.2" font-family="Helvetica,sans-Serif" font-size="11.00">+RegisterUser()</text>
+<polygon fill="#555555" stroke="#555555" points="378,-2275 378,-2275 530,-2275 530,-2275 378,-2275"/>
+<polygon fill="#555555" stroke="#555555" points="378,-1987 378,-1987 530,-1987 530,-1987 378,-1987"/>
+<polygon fill="none" stroke="#555555" points="378,-1938 378,-2310 530,-2310 530,-1938 378,-1938"/>
+</g>
+</g>
+<g transform="translate(150.0 2808.0)">
+<g id="node2" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="590,-2548 590,-2608 716,-2608 716,-2548 590,-2548"/>
+<polygon fill="#e8eef7" stroke="transparent" points="591,-2573 591,-2607 715,-2607 715,-2573 591,-2573"/>
+<text text-anchor="start" x="621.5" y="-2594.2" font-family="Helvetica,sans-Serif" font-size="11.00">«interface»</text>
+<text text-anchor="start" x="596" y="-2581.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">showLoginPage</text>
+<text text-anchor="start" x="652" y="-2567.8" font-family="Helvetica,sans-Serif" font-size="4.00"> </text>
+<text text-anchor="start" x="593" y="-2554.2" font-family="Helvetica,sans-Serif" font-size="11.00">+showLogin(frame)</text>
+<polygon fill="#555555" stroke="#555555" points="590,-2573 590,-2573 716,-2573 716,-2573 590,-2573"/>
+<polygon fill="#555555" stroke="#555555" points="590,-2565 590,-2565 716,-2565 716,-2565 590,-2565"/>
+<polygon fill="none" stroke="#555555" points="590,-2548 590,-2608 716,-2608 716,-2548 590,-2548"/>
+</g>
+</g>
+<g transform="translate(40.0 2518.0)">
+<g id="node8" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="0,-1384 0,-1828 406,-1828 406,-1384 0,-1384"/>
+<polygon fill="#e8eef7" stroke="transparent" points="1,-1793 1,-1827 405,-1827 405,-1793 1,-1793"/>
+<text text-anchor="start" x="177.5" y="-1814.2" font-family="Helvetica,sans-Serif" font-size="11.00">«JFrame»</text>
+<text text-anchor="start" x="159.5" y="-1801.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">UserDisplay</text>
+<text text-anchor="start" x="3" y="-1783.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~SEARCH_TEXT: String</text>
+<text text-anchor="start" x="179" y="-1783.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~currentStudent: Student</text>
+<text text-anchor="start" x="3" y="-1766.2" font-family="Helvetica,sans-Serif" font-size="11.00">~t1: JLabel</text>
+<text text-anchor="start" x="179" y="-1767.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~currentTeacher: Teacher</text>
+<text text-anchor="start" x="3" y="-1751.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~tRole: JLabel</text>
+<text text-anchor="start" x="179" y="-1750.2" font-family="Helvetica,sans-Serif" font-size="11.00">~browseBoxHolder: JPanel</text>
+<text text-anchor="start" x="3" y="-1734.2" font-family="Helvetica,sans-Serif" font-size="11.00">~tLogout: JLabel</text>
+<text text-anchor="start" x="179" y="-1734.2" font-family="Helvetica,sans-Serif" font-size="11.00">~browseOverlay: JPanel</text>
+<text text-anchor="start" x="3" y="-1718.2" font-family="Helvetica,sans-Serif" font-size="11.00">~line: JLabel</text>
+<text text-anchor="start" x="179" y="-1718.2" font-family="Helvetica,sans-Serif" font-size="11.00">~browseDetailPanel: JPanel</text>
+<text text-anchor="start" x="3" y="-1702.2" font-family="Helvetica,sans-Serif" font-size="11.00">~line2: JLabel</text>
+<text text-anchor="start" x="179" y="-1702.2" font-family="Helvetica,sans-Serif" font-size="11.00">~image: JLabel</text>
+<text text-anchor="start" x="3" y="-1686.2" font-family="Helvetica,sans-Serif" font-size="11.00">~h1: JLabel</text>
+<text text-anchor="start" x="179" y="-1686.2" font-family="Helvetica,sans-Serif" font-size="11.00">~name: JLabel</text>
+<text text-anchor="start" x="3" y="-1670.2" font-family="Helvetica,sans-Serif" font-size="11.00">~h2: JLabel</text>
+<text text-anchor="start" x="179" y="-1670.2" font-family="Helvetica,sans-Serif" font-size="11.00">~desc: JTextArea</text>
+<text text-anchor="start" x="3" y="-1654.2" font-family="Helvetica,sans-Serif" font-size="11.00">~h3: JLabel</text>
+<text text-anchor="start" x="179" y="-1654.2" font-family="Helvetica,sans-Serif" font-size="11.00">~qty: JLabel</text>
+<text text-anchor="start" x="3" y="-1639.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~mediumFont: Font</text>
+<text text-anchor="start" x="179" y="-1638.2" font-family="Helvetica,sans-Serif" font-size="11.00">~statusT: JLabel</text>
+<text text-anchor="start" x="3" y="-1623.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~headerFont: Font</text>
+<text text-anchor="start" x="179" y="-1622.2" font-family="Helvetica,sans-Serif" font-size="11.00">~accessT: JLabel</text>
+<text text-anchor="start" x="3" y="-1606.2" font-family="Helvetica,sans-Serif" font-size="11.00">~browsePane: JPanel</text>
+<text text-anchor="start" x="179" y="-1606.2" font-family="Helvetica,sans-Serif" font-size="11.00">~addRequest: JButton</text>
+<text text-anchor="start" x="3" y="-1590.2" font-family="Helvetica,sans-Serif" font-size="11.00">~scrollBrowsePane: JScrollPane</text>
+<text text-anchor="start" x="179" y="-1590.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;quantity: int</text>
+<text text-anchor="start" x="3" y="-1574.2" font-family="Helvetica,sans-Serif" font-size="11.00">~requestPane: JPanel</text>
+<text text-anchor="start" x="179" y="-1574.2" font-family="Helvetica,sans-Serif" font-size="11.00">~addQuantity: JButton</text>
+<text text-anchor="start" x="3" y="-1558.2" font-family="Helvetica,sans-Serif" font-size="11.00">~profile: ProfilePanel</text>
+<text text-anchor="start" x="179" y="-1558.2" font-family="Helvetica,sans-Serif" font-size="11.00">~minusQuantity: JButton</text>
+<text text-anchor="start" x="3" y="-1542.2" font-family="Helvetica,sans-Serif" font-size="11.00">~scrollProfile: JScrollPane</text>
+<text text-anchor="start" x="179" y="-1542.2" font-family="Helvetica,sans-Serif" font-size="11.00">~quantityField: JTextField</text>
+<text text-anchor="start" x="3" y="-1526.2" font-family="Helvetica,sans-Serif" font-size="11.00">~lastRequestFileTime: long</text>
+<text text-anchor="start" x="179" y="-1526.2" font-family="Helvetica,sans-Serif" font-size="11.00">~selectedItem: AdminDisplay.Equipment</text>
+<text text-anchor="start" x="3" y="-1510.2" font-family="Helvetica,sans-Serif" font-size="11.00">~editProfile: JButton</text>
+<text text-anchor="start" x="179" y="-1510.2" font-family="Helvetica,sans-Serif" font-size="11.00">~requestTable: JTable</text>
+<text text-anchor="start" x="3" y="-1494.2" font-family="Helvetica,sans-Serif" font-size="11.00">~editPassword: JButton</text>
+<text text-anchor="start" x="179" y="-1494.2" font-family="Helvetica,sans-Serif" font-size="11.00">~requestDtm: DefaultTableModel</text>
+<text text-anchor="start" x="3" y="-1478.2" font-family="Helvetica,sans-Serif" font-size="11.00">~requestReset: JButton</text>
+<text text-anchor="start" x="179" y="-1478.2" font-family="Helvetica,sans-Serif" font-size="11.00">~pFull: JLabel</text>
+<text text-anchor="start" x="3" y="-1462.2" font-family="Helvetica,sans-Serif" font-size="11.00">~requestDelete: JButton</text>
+<text text-anchor="start" x="179" y="-1462.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtID: JLabel</text>
+<text text-anchor="start" x="3" y="-1446.2" font-family="Helvetica,sans-Serif" font-size="11.00">~noticeOpen: boolean</text>
+<text text-anchor="start" x="179" y="-1446.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtRole: JLabel</text>
+<text text-anchor="start" x="3" y="-1430.2" font-family="Helvetica,sans-Serif" font-size="11.00">~search: JTextField</text>
+<text text-anchor="start" x="179" y="-1430.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtLName: JLabel</text>
+<text text-anchor="start" x="3" y="-1414.2" font-family="Helvetica,sans-Serif" font-size="11.00">~layout: CardLayout</text>
+<text text-anchor="start" x="179" y="-1414.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtFName: JLabel</text>
+<text text-anchor="start" x="3" y="-1398.2" font-family="Helvetica,sans-Serif" font-size="11.00">~set: JPanel</text>
+<text text-anchor="start" x="179" y="-1398.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtMName: JLabel</text>
+<text text-anchor="start" x="202" y="-1387.8" font-family="Helvetica,sans-Serif" font-size="4.00"> </text>
+<polygon fill="#555555" stroke="#555555" points="0,-1793 0,-1793 406,-1793 406,-1793 0,-1793"/>
+<polygon fill="#555555" stroke="#555555" points="0,-1393 0,-1393 177,-1393 177,-1393 0,-1393"/>
+<polygon fill="#555555" stroke="#555555" points="177,-1393 177,-1393 406,-1393 406,-1393 177,-1393"/>
+<polygon fill="none" stroke="#555555" points="0,-1384 0,-1828 406,-1828 406,-1384 0,-1384"/>
+</g>
+</g>
+<g transform="translate(164.0 2518.0)">
+<g id="node7" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="496,-912 496,-1828 914,-1828 914,-912 496,-912"/>
+<polygon fill="#e8eef7" stroke="transparent" points="497,-1793 497,-1827 913,-1827 913,-1793 497,-1793"/>
+<text text-anchor="start" x="679.5" y="-1814.2" font-family="Helvetica,sans-Serif" font-size="11.00">«JFrame»</text>
+<text text-anchor="start" x="655.5" y="-1801.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">AdminDisplay</text>
+<text text-anchor="start" x="499" y="-1783.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">&#45;adminAccount: int</text>
+<text text-anchor="start" x="712" y="-1782.2" font-family="Helvetica,sans-Serif" font-size="11.00">~studentID: JTextField</text>
+<text text-anchor="start" x="499" y="-1767.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">&#45;password: String</text>
+<text text-anchor="start" x="712" y="-1766.2" font-family="Helvetica,sans-Serif" font-size="11.00">~inputStudentPer: JTextField</text>
+<text text-anchor="start" x="499" y="-1751.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~adminLast: String</text>
+<text text-anchor="start" x="712" y="-1750.2" font-family="Helvetica,sans-Serif" font-size="11.00">~inputTeacherPer: JTextField</text>
+<text text-anchor="start" x="499" y="-1735.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~adminFirst: String</text>
+<text text-anchor="start" x="712" y="-1734.2" font-family="Helvetica,sans-Serif" font-size="11.00">~inputPickup: JTextField</text>
+<text text-anchor="start" x="499" y="-1719.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~adminMiddle: String</text>
+<text text-anchor="start" x="712" y="-1718.2" font-family="Helvetica,sans-Serif" font-size="11.00">~statusBox: JComboBox&lt;String&gt;</text>
+<text text-anchor="start" x="499" y="-1703.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~name: String</text>
+<text text-anchor="start" x="712" y="-1702.2" font-family="Helvetica,sans-Serif" font-size="11.00">~requestFilter: JComboBox&lt;String&gt;</text>
+<text text-anchor="start" x="499" y="-1686.2" font-family="Helvetica,sans-Serif" font-size="11.00">~user: JLabel</text>
+<text text-anchor="start" x="712" y="-1686.2" font-family="Helvetica,sans-Serif" font-size="11.00">~accessBox: JComboBox&lt;String&gt;</text>
+<text text-anchor="start" x="499" y="-1670.2" font-family="Helvetica,sans-Serif" font-size="11.00">~logout: JLabel</text>
+<text text-anchor="start" x="712" y="-1670.2" font-family="Helvetica,sans-Serif" font-size="11.00">~categoryBox: JComboBox&lt;String&gt;</text>
+<text text-anchor="start" x="499" y="-1654.2" font-family="Helvetica,sans-Serif" font-size="11.00">~layout: CardLayout</text>
+<text text-anchor="start" x="712" y="-1654.2" font-family="Helvetica,sans-Serif" font-size="11.00">~status: JComboBox&lt;String&gt;</text>
+<text text-anchor="start" x="499" y="-1638.2" font-family="Helvetica,sans-Serif" font-size="11.00">~mainPane: JPanel</text>
+<text text-anchor="start" x="712" y="-1638.2" font-family="Helvetica,sans-Serif" font-size="11.00">~statusBoxT: JComboBox&lt;String&gt;</text>
+<text text-anchor="start" x="499" y="-1622.2" font-family="Helvetica,sans-Serif" font-size="11.00">~dashboardPane: JPanel</text>
+<text text-anchor="start" x="712" y="-1622.2" font-family="Helvetica,sans-Serif" font-size="11.00">~seNoField: JTextField</text>
+<text text-anchor="start" x="499" y="-1606.2" font-family="Helvetica,sans-Serif" font-size="11.00">~equipmentPane: JPanel</text>
+<text text-anchor="start" x="712" y="-1606.2" font-family="Helvetica,sans-Serif" font-size="11.00">~qtyField: JTextField</text>
+<text text-anchor="start" x="499" y="-1590.2" font-family="Helvetica,sans-Serif" font-size="11.00">~requestPane: JPanel</text>
+<text text-anchor="start" x="712" y="-1590.2" font-family="Helvetica,sans-Serif" font-size="11.00">~eqNameField: JTextField</text>
+<text text-anchor="start" x="499" y="-1574.2" font-family="Helvetica,sans-Serif" font-size="11.00">~systemPane: JPanel</text>
+<text text-anchor="start" x="712" y="-1574.2" font-family="Helvetica,sans-Serif" font-size="11.00">~searchStudent: JTextField</text>
+<text text-anchor="start" x="499" y="-1558.2" font-family="Helvetica,sans-Serif" font-size="11.00">~adminProfile: ProfilePanel</text>
+<text text-anchor="start" x="712" y="-1558.2" font-family="Helvetica,sans-Serif" font-size="11.00">~searchTeacher: JTextField</text>
+<text text-anchor="start" x="499" y="-1542.2" font-family="Helvetica,sans-Serif" font-size="11.00">~line1: JLabel</text>
+<text text-anchor="start" x="712" y="-1542.2" font-family="Helvetica,sans-Serif" font-size="11.00">~searchBlocked: JTextField</text>
+<text text-anchor="start" x="499" y="-1526.2" font-family="Helvetica,sans-Serif" font-size="11.00">~line2: JLabel</text>
+<text text-anchor="start" x="712" y="-1526.2" font-family="Helvetica,sans-Serif" font-size="11.00">~locationField: JTextField</text>
+<text text-anchor="start" x="499" y="-1510.2" font-family="Helvetica,sans-Serif" font-size="11.00">~search: JTextField</text>
+<text text-anchor="start" x="712" y="-1510.2" font-family="Helvetica,sans-Serif" font-size="11.00">~descriptionArea: JTextArea</text>
+<text text-anchor="start" x="499" y="-1494.2" font-family="Helvetica,sans-Serif" font-size="11.00">~h1: JLabel</text>
+<text text-anchor="start" x="712" y="-1494.2" font-family="Helvetica,sans-Serif" font-size="11.00">~detailArea: JTextArea</text>
+<text text-anchor="start" x="499" y="-1478.2" font-family="Helvetica,sans-Serif" font-size="11.00">~h2: JLabel</text>
+<text text-anchor="start" x="712" y="-1478.2" font-family="Helvetica,sans-Serif" font-size="11.00">~reasonField: JTextArea</text>
+<text text-anchor="start" x="499" y="-1462.2" font-family="Helvetica,sans-Serif" font-size="11.00">~h3: JLabel</text>
+<text text-anchor="start" x="712" y="-1462.2" font-family="Helvetica,sans-Serif" font-size="11.00">~imageName: JLabel</text>
+<text text-anchor="start" x="499" y="-1446.2" font-family="Helvetica,sans-Serif" font-size="11.00">~h4: JLabel</text>
+<text text-anchor="start" x="712" y="-1446.2" font-family="Helvetica,sans-Serif" font-size="11.00">~selectedImagePath: String</text>
+<text text-anchor="start" x="499" y="-1430.2" font-family="Helvetica,sans-Serif" font-size="11.00">~h5: JLabel</text>
+<text text-anchor="start" x="712" y="-1430.2" font-family="Helvetica,sans-Serif" font-size="11.00">~changeImage: JButton</text>
+<text text-anchor="start" x="499" y="-1414.2" font-family="Helvetica,sans-Serif" font-size="11.00">~h6: JLabel</text>
+<text text-anchor="start" x="712" y="-1414.2" font-family="Helvetica,sans-Serif" font-size="11.00">~editImagePath: String</text>
+<text text-anchor="start" x="499" y="-1398.2" font-family="Helvetica,sans-Serif" font-size="11.00">~lastRequestFileTime: long</text>
+<text text-anchor="start" x="712" y="-1398.2" font-family="Helvetica,sans-Serif" font-size="11.00">~box1: JLabel</text>
+<text text-anchor="start" x="499" y="-1382.2" font-family="Helvetica,sans-Serif" font-size="11.00">~hStudent: JLabel</text>
+<text text-anchor="start" x="712" y="-1382.2" font-family="Helvetica,sans-Serif" font-size="11.00">~box2: JLabel</text>
+<text text-anchor="start" x="499" y="-1366.2" font-family="Helvetica,sans-Serif" font-size="11.00">~hTeacher: JLabel</text>
+<text text-anchor="start" x="712" y="-1366.2" font-family="Helvetica,sans-Serif" font-size="11.00">~box3: JLabel</text>
+<text text-anchor="start" x="499" y="-1350.2" font-family="Helvetica,sans-Serif" font-size="11.00">~hBlockUsers: JLabel</text>
+<text text-anchor="start" x="712" y="-1350.2" font-family="Helvetica,sans-Serif" font-size="11.00">~box4: JLabel</text>
+<text text-anchor="start" x="499" y="-1334.2" font-family="Helvetica,sans-Serif" font-size="11.00">~pane: JPanel</text>
+<text text-anchor="start" x="712" y="-1334.2" font-family="Helvetica,sans-Serif" font-size="11.00">~box5: JLabel</text>
+<text text-anchor="start" x="499" y="-1318.2" font-family="Helvetica,sans-Serif" font-size="11.00">~userCard: JPanel</text>
+<text text-anchor="start" x="712" y="-1318.2" font-family="Helvetica,sans-Serif" font-size="11.00">~proofPicture: JLabel</text>
+<text text-anchor="start" x="499" y="-1302.2" font-family="Helvetica,sans-Serif" font-size="11.00">~userPanels: CardLayout</text>
+<text text-anchor="start" x="712" y="-1302.2" font-family="Helvetica,sans-Serif" font-size="11.00">~requestTable: JTable</text>
+<text text-anchor="start" x="499" y="-1286.2" font-family="Helvetica,sans-Serif" font-size="11.00">~equipmentTable: JTable</text>
+<text text-anchor="start" x="712" y="-1286.2" font-family="Helvetica,sans-Serif" font-size="11.00">~requestDtm: DefaultTableModel</text>
+<text text-anchor="start" x="499" y="-1270.2" font-family="Helvetica,sans-Serif" font-size="11.00">~studentTable: JTable</text>
+<text text-anchor="start" x="712" y="-1270.2" font-family="Helvetica,sans-Serif" font-size="11.00">~inputMaxStudent: JTextField</text>
+<text text-anchor="start" x="499" y="-1254.2" font-family="Helvetica,sans-Serif" font-size="11.00">~teacherTable: JTable</text>
+<text text-anchor="start" x="712" y="-1254.2" font-family="Helvetica,sans-Serif" font-size="11.00">~inputMaxTeacher: JTextField</text>
+<text text-anchor="start" x="499" y="-1238.2" font-family="Helvetica,sans-Serif" font-size="11.00">~blockUserTable: JTable</text>
+<text text-anchor="start" x="712" y="-1238.2" font-family="Helvetica,sans-Serif" font-size="11.00">~inputMaxDays: JTextField</text>
+<text text-anchor="start" x="499" y="-1222.2" font-family="Helvetica,sans-Serif" font-size="11.00">~categories: JComboBox</text>
+<text text-anchor="start" x="712" y="-1222.2" font-family="Helvetica,sans-Serif" font-size="11.00">~inputPenalty: JTextField</text>
+<text text-anchor="start" x="499" y="-1206.2" font-family="Helvetica,sans-Serif" font-size="11.00">~dtm: DefaultTableModel</text>
+<text text-anchor="start" x="712" y="-1206.2" font-family="Helvetica,sans-Serif" font-size="11.00">~resetStudent: JButton</text>
+<text text-anchor="start" x="499" y="-1190.2" font-family="Helvetica,sans-Serif" font-size="11.00">~studentDtm: DefaultTableModel</text>
+<text text-anchor="start" x="712" y="-1190.2" font-family="Helvetica,sans-Serif" font-size="11.00">~editStudent: JButton</text>
+<text text-anchor="start" x="499" y="-1174.2" font-family="Helvetica,sans-Serif" font-size="11.00">~teacherDtm: DefaultTableModel</text>
+<text text-anchor="start" x="712" y="-1174.2" font-family="Helvetica,sans-Serif" font-size="11.00">~editTeacher: JButton</text>
+<text text-anchor="start" x="499" y="-1158.2" font-family="Helvetica,sans-Serif" font-size="11.00">~blockedUserDtm: DefaultTableModel</text>
+<text text-anchor="start" x="712" y="-1158.2" font-family="Helvetica,sans-Serif" font-size="11.00">~resetTeacher: JButton</text>
+<text text-anchor="start" x="499" y="-1142.2" font-family="Helvetica,sans-Serif" font-size="11.00">~recentTable: JTable</text>
+<text text-anchor="start" x="712" y="-1142.2" font-family="Helvetica,sans-Serif" font-size="11.00">~deleteStudent: JButton</text>
+<text text-anchor="start" x="499" y="-1126.2" font-family="Helvetica,sans-Serif" font-size="11.00">~recentDtm: DefaultTableModel</text>
+<text text-anchor="start" x="712" y="-1126.2" font-family="Helvetica,sans-Serif" font-size="11.00">~rbutton: JButton</text>
+<text text-anchor="start" x="499" y="-1110.2" font-family="Helvetica,sans-Serif" font-size="11.00">~lastRequestCount: int</text>
+<text text-anchor="start" x="712" y="-1110.2" font-family="Helvetica,sans-Serif" font-size="11.00">~deleteTeacher: JButton</text>
+<text text-anchor="start" x="499" y="-1095.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~RECENT_LIMIT: int</text>
+<text text-anchor="start" x="712" y="-1094.2" font-family="Helvetica,sans-Serif" font-size="11.00">~approveDelete: JButton</text>
+<text text-anchor="start" x="499" y="-1078.2" font-family="Helvetica,sans-Serif" font-size="11.00">~selectedCategory: String</text>
+<text text-anchor="start" x="712" y="-1078.2" font-family="Helvetica,sans-Serif" font-size="11.00">~rejectDelete: JButton</text>
+<text text-anchor="start" x="499" y="-1062.2" font-family="Helvetica,sans-Serif" font-size="11.00">~selectedStatus: String</text>
+<text text-anchor="start" x="712" y="-1062.2" font-family="Helvetica,sans-Serif" font-size="11.00">~hDelete: JLabel</text>
+<text text-anchor="start" x="499" y="-1046.2" font-family="Helvetica,sans-Serif" font-size="11.00">~panelAdd: JPanel</text>
+<text text-anchor="start" x="712" y="-1046.2" font-family="Helvetica,sans-Serif" font-size="11.00">~deleteTable: JTable</text>
+<text text-anchor="start" x="499" y="-1030.2" font-family="Helvetica,sans-Serif" font-size="11.00">~panelAddT: JPanel</text>
+<text text-anchor="start" x="712" y="-1030.2" font-family="Helvetica,sans-Serif" font-size="11.00">~deleteDtm: DefaultTableModel</text>
+<text text-anchor="start" x="499" y="-1014.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;proofViewPanel: JPanel</text>
+<text text-anchor="start" x="712" y="-1014.2" font-family="Helvetica,sans-Serif" font-size="11.00">~lastQueueSize: int</text>
+<text text-anchor="start" x="499" y="-998.2" font-family="Helvetica,sans-Serif" font-size="11.00">~proofFull: JLabel</text>
+<text text-anchor="start" x="712" y="-998.2" font-family="Helvetica,sans-Serif" font-size="11.00">~lastQueueFront: int</text>
+<text text-anchor="start" x="499" y="-982.2" font-family="Helvetica,sans-Serif" font-size="11.00">~currentProofPath: String</text>
+<text text-anchor="start" x="712" y="-982.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;overlay: JPanel</text>
+<text text-anchor="start" x="499" y="-966.2" font-family="Helvetica,sans-Serif" font-size="11.00">~teacherID: JTextField</text>
+<text text-anchor="start" x="712" y="-966.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;addEquipmentPanel: JPanel</text>
+<text text-anchor="start" x="499" y="-950.2" font-family="Helvetica,sans-Serif" font-size="11.00">+approveRequest()</text>
+<text text-anchor="start" x="499" y="-934.2" font-family="Helvetica,sans-Serif" font-size="11.00">+returnRequest()</text>
+<text text-anchor="start" x="499" y="-918.2" font-family="Helvetica,sans-Serif" font-size="11.00">+editEquipment()</text>
+<polygon fill="#555555" stroke="#555555" points="496,-1793 496,-1793 914,-1793 914,-1793 496,-1793"/>
+<polygon fill="#555555" stroke="#555555" points="496,-961 496,-961 710,-961 710,-961 496,-961"/>
+<polygon fill="#555555" stroke="#555555" points="710,-961 710,-961 914,-961 914,-961 710,-961"/>
+<polygon fill="none" stroke="#555555" points="496,-912 496,-1828 914,-1828 914,-912 496,-912"/>
+</g>
+</g>
+<g transform="translate(-49.5 1496.0)">
+<g id="node18" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="109.5,-200 109.5,-282 221.5,-282 221.5,-200 109.5,-200"/>
+<polygon fill="#e8eef7" stroke="transparent" points="110.5,-257 110.5,-281 220.5,-281 220.5,-257 110.5,-257"/>
+<text text-anchor="start" x="115.5" y="-266.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">SearchHelper</text>
+<text text-anchor="start" x="164.5" y="-251.8" font-family="Helvetica,sans-Serif" font-size="4.00"> </text>
+<text text-anchor="start" x="112.5" y="-238.2" font-family="Helvetica,sans-Serif" font-size="11.00">+binarySearch()</text>
+<text text-anchor="start" x="112.5" y="-222.2" font-family="Helvetica,sans-Serif" font-size="11.00">+insertionSort()</text>
+<text text-anchor="start" x="112.5" y="-206.2" font-family="Helvetica,sans-Serif" font-size="11.00">+search()</text>
+<polygon fill="#555555" stroke="#555555" points="109.5,-257 109.5,-257 221.5,-257 221.5,-257 109.5,-257"/>
+<polygon fill="#555555" stroke="#555555" points="109.5,-249 109.5,-249 221.5,-249 221.5,-249 109.5,-249"/>
+<polygon fill="none" stroke="#555555" points="109.5,-200 109.5,-282 221.5,-282 221.5,-200 109.5,-200"/>
+</g>
+</g>
+<g transform="translate(-111.5 1496.0)">
+<g id="node23" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="311.5,-216 311.5,-282 412.5,-282 412.5,-216 311.5,-216"/>
+<polygon fill="#e8eef7" stroke="transparent" points="313,-257 313,-281 412,-281 412,-257 313,-257"/>
+<text text-anchor="start" x="335" y="-266.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">Receipt</text>
+<text text-anchor="start" x="361.5" y="-251.8" font-family="Helvetica,sans-Serif" font-size="4.00"> </text>
+<text text-anchor="start" x="315" y="-238.2" font-family="Helvetica,sans-Serif" font-size="11.00">+buildReceipt(r)</text>
+<text text-anchor="start" x="315" y="-222.2" font-family="Helvetica,sans-Serif" font-size="11.00">+show(parent, r)</text>
+<polygon fill="#555555" stroke="#555555" points="312,-257 312,-257 413,-257 413,-257 312,-257"/>
+<polygon fill="#555555" stroke="#555555" points="312,-249 312,-249 413,-249 413,-249 312,-249"/>
+<polygon fill="none" stroke="#555555" points="311.5,-216 311.5,-282 412.5,-282 412.5,-216 311.5,-216"/>
+</g>
+</g>
+<g transform="translate(275.5 2016.0)">
+<g id="node14" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="54.5,-462 54.5,-802 193.5,-802 193.5,-462 54.5,-462"/>
+<polygon fill="#e8eef7" stroke="transparent" points="56,-767 56,-801 193,-801 193,-767 56,-767"/>
+<text text-anchor="start" x="101.5" y="-788.2" font-family="Helvetica,sans-Serif" font-size="11.00">«JPanel»</text>
+<text text-anchor="start" x="79.5" y="-775.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">ProfilePanel</text>
+<text text-anchor="start" x="58" y="-757.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~GENDER_FILE: String</text>
+<text text-anchor="start" x="58" y="-741.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~GENDER_NONE: String</text>
+<text text-anchor="start" x="58" y="-724.2" font-family="Helvetica,sans-Serif" font-size="11.00">~pFull: JLabel</text>
+<text text-anchor="start" x="58" y="-708.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtID: JLabel</text>
+<text text-anchor="start" x="58" y="-692.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtRole: JLabel</text>
+<text text-anchor="start" x="58" y="-676.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtFName: JLabel</text>
+<text text-anchor="start" x="58" y="-660.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtMName: JLabel</text>
+<text text-anchor="start" x="58" y="-644.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtLName: JLabel</text>
+<text text-anchor="start" x="58" y="-628.2" font-family="Helvetica,sans-Serif" font-size="11.00">~txtGender: JLabel</text>
+<text text-anchor="start" x="58" y="-612.2" font-family="Helvetica,sans-Serif" font-size="11.00">~titleA: JLabel</text>
+<text text-anchor="start" x="58" y="-596.2" font-family="Helvetica,sans-Serif" font-size="11.00">~valueA: JLabel</text>
+<text text-anchor="start" x="58" y="-580.2" font-family="Helvetica,sans-Serif" font-size="11.00">~titleB: JLabel</text>
+<text text-anchor="start" x="58" y="-564.2" font-family="Helvetica,sans-Serif" font-size="11.00">~valueB: JLabel</text>
+<text text-anchor="start" x="58" y="-548.2" font-family="Helvetica,sans-Serif" font-size="11.00">~picture: JLabel</text>
+<text text-anchor="start" x="58" y="-532.2" font-family="Helvetica,sans-Serif" font-size="11.00">~editProfile: JButton</text>
+<text text-anchor="start" x="58" y="-516.2" font-family="Helvetica,sans-Serif" font-size="11.00">~editPassword: JButton</text>
+<text text-anchor="start" x="58" y="-500.2" font-family="Helvetica,sans-Serif" font-size="11.00">~infoPane: JPanel</text>
+<text text-anchor="start" x="58" y="-484.2" font-family="Helvetica,sans-Serif" font-size="11.00">+show()</text>
+<text text-anchor="start" x="58" y="-468.2" font-family="Helvetica,sans-Serif" font-size="11.00">+getGender()</text>
+<polygon fill="#555555" stroke="#555555" points="55,-767 55,-767 194,-767 194,-767 55,-767"/>
+<polygon fill="#555555" stroke="#555555" points="55,-495 55,-495 194,-495 194,-495 55,-495"/>
+<polygon fill="none" stroke="#555555" points="54.5,-462 54.5,-802 193.5,-802 193.5,-462 54.5,-462"/>
+</g>
+</g>
+<g transform="translate(40.5 2612.0)">
+<g id="node12" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="619.5,-392 619.5,-802 1085.5,-802 1085.5,-392 619.5,-392"/>
+<polygon fill="#e8eef7" stroke="transparent" points="620.5,-777 620.5,-801 1084.5,-801 1084.5,-777 620.5,-777"/>
+<text text-anchor="start" x="822.5" y="-786.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">Request</text>
+<text text-anchor="start" x="622.5" y="-767.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~FILE_PATH: String</text>
+<text text-anchor="start" x="817.5" y="-766.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;equipmentId: String</text>
+<text text-anchor="start" x="622.5" y="-751.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~RULES_PATH: String</text>
+<text text-anchor="start" x="817.5" y="-750.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;equipmentName: String</text>
+<text text-anchor="start" x="622.5" y="-735.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~PROOF_FOLDER: String</text>
+<text text-anchor="start" x="817.5" y="-734.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;quantity: int</text>
+<text text-anchor="start" x="622.5" y="-719.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~userColumns: String[]</text>
+<text text-anchor="start" x="817.5" y="-718.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;proofText: String</text>
+<text text-anchor="start" x="622.5" y="-703.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~counter: int</text>
+<text text-anchor="start" x="817.5" y="-702.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;proofImage: String</text>
+<text text-anchor="start" x="622.5" y="-687.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~maxStudentItems: int</text>
+<text text-anchor="start" x="817.5" y="-686.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;dateRequested: String</text>
+<text text-anchor="start" x="622.5" y="-671.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~maxTeacherItems: int</text>
+<text text-anchor="start" x="817.5" y="-670.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;status: String</text>
+<text text-anchor="start" x="622.5" y="-655.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~maxDays: int</text>
+<text text-anchor="start" x="817.5" y="-654.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;comment: String</text>
+<text text-anchor="start" x="622.5" y="-639.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~penalty: int</text>
+<text text-anchor="start" x="817.5" y="-638.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;dateApproved: String</text>
+<text text-anchor="start" x="622.5" y="-623.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~maxStudentPerEquipment: int</text>
+<text text-anchor="start" x="817.5" y="-622.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;dateBorrowed: String</text>
+<text text-anchor="start" x="622.5" y="-607.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~maxTeacherPerEquipment: int</text>
+<text text-anchor="start" x="817.5" y="-606.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;dateReturned: String</text>
+<text text-anchor="start" x="622.5" y="-591.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~pickupDays: int</text>
+<text text-anchor="start" x="817.5" y="-590.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;condition: String</text>
+<text text-anchor="start" x="622.5" y="-575.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~requestList: ArrayList&lt;Request&gt;</text>
+<text text-anchor="start" x="817.5" y="-574.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;penaltyAmount: int</text>
+<text text-anchor="start" x="622.5" y="-559.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~front: int</text>
+<text text-anchor="start" x="817.5" y="-558.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;chargeAmount: double</text>
+<text text-anchor="start" x="622.5" y="-543.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~rear: int</text>
+<text text-anchor="start" x="817.5" y="-542.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;amountPaid: double</text>
+<text text-anchor="start" x="622.5" y="-526.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;requestId: int</text>
+<text text-anchor="start" x="817.5" y="-526.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;userNotified: boolean</text>
+<text text-anchor="start" x="622.5" y="-510.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;userId: int</text>
+<text text-anchor="start" x="817.5" y="-511.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~FORMAT: java.time.format.DateTimeFormatter</text>
+<text text-anchor="start" x="622.5" y="-494.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;role: String</text>
+<text text-anchor="start" x="622.5" y="-478.2" font-family="Helvetica,sans-Serif" font-size="11.00">+createRequest()</text>
+<text text-anchor="start" x="622.5" y="-462.2" font-family="Helvetica,sans-Serif" font-size="11.00">+approve()</text>
+<text text-anchor="start" x="622.5" y="-446.2" font-family="Helvetica,sans-Serif" font-size="11.00">+reject()</text>
+<text text-anchor="start" x="622.5" y="-430.2" font-family="Helvetica,sans-Serif" font-size="11.00">+markBorrowed()</text>
+<text text-anchor="start" x="622.5" y="-414.2" font-family="Helvetica,sans-Serif" font-size="11.00">+markReturned()</text>
+<text text-anchor="start" x="622.5" y="-398.2" font-family="Helvetica,sans-Serif" font-size="11.00">+buildQueue()</text>
+<polygon fill="#555555" stroke="#555555" points="619.5,-777 619.5,-777 1085.5,-777 1085.5,-777 619.5,-777"/>
+<polygon fill="#555555" stroke="#555555" points="619.5,-489 619.5,-489 815.5,-489 815.5,-489 619.5,-489"/>
+<polygon fill="#555555" stroke="#555555" points="815.5,-489 815.5,-489 1085.5,-489 1085.5,-489 815.5,-489"/>
+<polygon fill="none" stroke="#555555" points="619.5,-392 619.5,-802 1085.5,-802 1085.5,-392 619.5,-392"/>
+</g>
+</g>
+<g transform="translate(327.5 2582.0)">
+<g id="node19" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="502.5,-160 502.5,-282 621.5,-282 621.5,-160 502.5,-160"/>
+<polygon fill="#e8eef7" stroke="transparent" points="504,-257 504,-281 621,-281 621,-257 504,-257"/>
+<text text-anchor="start" x="509" y="-266.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">RequestQueue</text>
+<text text-anchor="start" x="506" y="-247.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~queue: int[]</text>
+<text text-anchor="start" x="506" y="-231.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~front: int</text>
+<text text-anchor="start" x="506" y="-215.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~rear: int</text>
+<text text-anchor="start" x="506" y="-198.2" font-family="Helvetica,sans-Serif" font-size="11.00">+enqueue()</text>
+<text text-anchor="start" x="506" y="-182.2" font-family="Helvetica,sans-Serif" font-size="11.00">+dequeue()</text>
+<text text-anchor="start" x="506" y="-166.2" font-family="Helvetica,sans-Serif" font-size="11.00">+peek()</text>
+<polygon fill="#555555" stroke="#555555" points="503,-257 503,-257 622,-257 622,-257 503,-257"/>
+<polygon fill="#555555" stroke="#555555" points="503,-209 503,-209 622,-209 622,-209 503,-209"/>
+<polygon fill="none" stroke="#555555" points="502.5,-160 502.5,-282 621.5,-282 621.5,-160 502.5,-160"/>
+</g>
+</g>
+<g transform="translate(902.5 2612.0)">
+<g id="node13" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="283.5,-472 283.5,-802 529.5,-802 529.5,-472 283.5,-472"/>
+<polygon fill="#e8eef7" stroke="transparent" points="284.5,-777 284.5,-801 528.5,-801 528.5,-777 284.5,-777"/>
+<text text-anchor="start" x="367" y="-786.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">Equipment</text>
+<text text-anchor="start" x="286.5" y="-766.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;idNo: int</text>
+<text text-anchor="start" x="286.5" y="-750.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;icon: ImageIcon</text>
+<text text-anchor="start" x="286.5" y="-735.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~accessList: String[]</text>
+<text text-anchor="start" x="286.5" y="-718.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;eqName: String</text>
+<text text-anchor="start" x="286.5" y="-702.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;category: String</text>
+<text text-anchor="start" x="286.5" y="-686.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;serialNo: String</text>
+<text text-anchor="start" x="286.5" y="-670.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;location: String</text>
+<text text-anchor="start" x="286.5" y="-654.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;qty: int</text>
+<text text-anchor="start" x="286.5" y="-638.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;totalQty: int</text>
+<text text-anchor="start" x="286.5" y="-622.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;status: String</text>
+<text text-anchor="start" x="286.5" y="-606.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;imagePath: String</text>
+<text text-anchor="start" x="286.5" y="-590.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;description: String</text>
+<text text-anchor="start" x="286.5" y="-574.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;access: String</text>
+<text text-anchor="start" x="286.5" y="-559.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~counter: int</text>
+<text text-anchor="start" x="286.5" y="-543.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~MAX_STUDENT_ITEM_PER_EQUIPMENT: int</text>
+<text text-anchor="start" x="286.5" y="-527.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~MAX_TEACHER_ITEM_PER_EQUIPMENT: int</text>
+<text text-anchor="start" x="286.5" y="-511.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~equipmentList: ArrayList&lt;Equipment&gt;</text>
+<text text-anchor="start" x="286.5" y="-494.2" font-family="Helvetica,sans-Serif" font-size="11.00">+findById()</text>
+<text text-anchor="start" x="286.5" y="-478.2" font-family="Helvetica,sans-Serif" font-size="11.00">+refreshStatus()</text>
+<polygon fill="#555555" stroke="#555555" points="283.5,-777 283.5,-777 529.5,-777 529.5,-777 283.5,-777"/>
+<polygon fill="#555555" stroke="#555555" points="283.5,-505 283.5,-505 529.5,-505 529.5,-505 283.5,-505"/>
+<polygon fill="none" stroke="#555555" points="283.5,-472 283.5,-802 529.5,-802 529.5,-472 283.5,-472"/>
+</g>
+</g>
+<g transform="translate(780.5 2092.0)">
+<g id="node21" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="711.5,-144 711.5,-282 859.5,-282 859.5,-144 711.5,-144"/>
+<polygon fill="#e8eef7" stroke="transparent" points="712.5,-257 712.5,-281 858.5,-281 858.5,-257 712.5,-257"/>
+<text text-anchor="start" x="729.5" y="-266.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">PasswordReset</text>
+<text text-anchor="start" x="714.5" y="-247.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~ADMIN_OFFICE: String</text>
+<text text-anchor="start" x="714.5" y="-231.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~CODE_CHARS: String</text>
+<text text-anchor="start" x="714.5" y="-215.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~CODE_LENGTH: int</text>
+<text text-anchor="start" x="714.5" y="-199.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~random: SecureRandom</text>
+<text text-anchor="start" x="714.5" y="-182.2" font-family="Helvetica,sans-Serif" font-size="11.00">+findAccount(): Account</text>
+<text text-anchor="start" x="714.5" y="-166.2" font-family="Helvetica,sans-Serif" font-size="11.00">+adminReset()</text>
+<text text-anchor="start" x="714.5" y="-150.2" font-family="Helvetica,sans-Serif" font-size="11.00">+forceChange()</text>
+<polygon fill="#555555" stroke="#555555" points="711.5,-257 711.5,-257 859.5,-257 859.5,-257 711.5,-257"/>
+<polygon fill="#555555" stroke="#555555" points="711.5,-193 711.5,-193 859.5,-193 859.5,-193 711.5,-193"/>
+<polygon fill="none" stroke="#555555" points="711.5,-144 711.5,-282 859.5,-282 859.5,-144 711.5,-144"/>
+</g>
+</g>
+<g transform="translate(750.5 2092.0)">
+<g id="node22" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="949.5,-216 949.5,-282 1081.5,-282 1081.5,-216 949.5,-216"/>
+<polygon fill="#e8eef7" stroke="transparent" points="950.5,-257 950.5,-281 1080.5,-281 1080.5,-257 950.5,-257"/>
+<text text-anchor="start" x="955.5" y="-266.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">AccountDeletion</text>
+<text text-anchor="start" x="1014.5" y="-251.8" font-family="Helvetica,sans-Serif" font-size="4.00"> </text>
+<text text-anchor="start" x="952.5" y="-238.2" font-family="Helvetica,sans-Serif" font-size="11.00">+askDeletion()</text>
+<text text-anchor="start" x="952.5" y="-222.2" font-family="Helvetica,sans-Serif" font-size="11.00">+adminDelete()</text>
+<polygon fill="#555555" stroke="#555555" points="949.5,-257 949.5,-257 1081.5,-257 1081.5,-257 949.5,-257"/>
+<polygon fill="#555555" stroke="#555555" points="949.5,-249 949.5,-249 1081.5,-249 1081.5,-249 949.5,-249"/>
+<polygon fill="none" stroke="#555555" points="949.5,-216 949.5,-282 1081.5,-282 1081.5,-216 949.5,-216"/>
+</g>
+</g>
+<g transform="translate(401.5 2612.0)">
+<g id="node16" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="1490.5,-632 1490.5,-802 1684.5,-802 1684.5,-632 1490.5,-632"/>
+<polygon fill="#e8eef7" stroke="transparent" points="1491.5,-777 1491.5,-801 1683.5,-801 1683.5,-777 1491.5,-777"/>
+<text text-anchor="start" x="1530" y="-786.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">DeleteRequests</text>
+<text text-anchor="start" x="1493.5" y="-767.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~columns: String[]</text>
+<text text-anchor="start" x="1493.5" y="-751.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~list: ArrayList&lt;DeleteRequests&gt;</text>
+<text text-anchor="start" x="1493.5" y="-734.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;userId: int</text>
+<text text-anchor="start" x="1493.5" y="-718.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;role: String</text>
+<text text-anchor="start" x="1493.5" y="-702.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;reason: String</text>
+<text text-anchor="start" x="1493.5" y="-686.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;date: String</text>
+<text text-anchor="start" x="1493.5" y="-670.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;status: String</text>
+<text text-anchor="start" x="1493.5" y="-654.2" font-family="Helvetica,sans-Serif" font-size="11.00">+add()</text>
+<text text-anchor="start" x="1493.5" y="-638.2" font-family="Helvetica,sans-Serif" font-size="11.00">+setStatus()</text>
+<polygon fill="#555555" stroke="#555555" points="1490.5,-777 1490.5,-777 1684.5,-777 1684.5,-777 1490.5,-777"/>
+<polygon fill="#555555" stroke="#555555" points="1490.5,-665 1490.5,-665 1684.5,-665 1684.5,-665 1490.5,-665"/>
+<polygon fill="none" stroke="#555555" points="1490.5,-632 1490.5,-802 1684.5,-802 1684.5,-632 1490.5,-632"/>
+</g>
+</g>
+<g transform="translate(753.5 2698.0)">
+<g id="node3" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="978.5,-2420 978.5,-2608 1195.5,-2608 1195.5,-2420 978.5,-2420"/>
+<polygon fill="#e8eef7" stroke="transparent" points="980,-2573 980,-2607 1195,-2607 1195,-2573 980,-2573"/>
+<text text-anchor="start" x="1056" y="-2594.2" font-family="Helvetica,sans-Serif" font-size="11.00">«interface»</text>
+<text text-anchor="start" x="1058.5" y="-2581.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">Account</text>
+<text text-anchor="start" x="1086.5" y="-2567.8" font-family="Helvetica,sans-Serif" font-size="4.00"> </text>
+<text text-anchor="start" x="982" y="-2554.2" font-family="Helvetica,sans-Serif" font-size="11.00">+getFullName(): String</text>
+<text text-anchor="start" x="982" y="-2538.2" font-family="Helvetica,sans-Serif" font-size="11.00">+getIdNumber(): int</text>
+<text text-anchor="start" x="982" y="-2522.2" font-family="Helvetica,sans-Serif" font-size="11.00">+getRole(): String</text>
+<text text-anchor="start" x="982" y="-2506.2" font-family="Helvetica,sans-Serif" font-size="11.00">+isBlocked(): boolean</text>
+<text text-anchor="start" x="982" y="-2490.2" font-family="Helvetica,sans-Serif" font-size="11.00">+passwordMatches(typed): boolean</text>
+<text text-anchor="start" x="982" y="-2474.2" font-family="Helvetica,sans-Serif" font-size="11.00">+setPassword(newPass, mustChange)</text>
+<text text-anchor="start" x="982" y="-2458.2" font-family="Helvetica,sans-Serif" font-size="11.00">+recordFailedLogin()</text>
+<text text-anchor="start" x="982" y="-2442.2" font-family="Helvetica,sans-Serif" font-size="11.00">+save()</text>
+<text text-anchor="start" x="982" y="-2426.2" font-family="Helvetica,sans-Serif" font-size="11.00">+remove()</text>
+<polygon fill="#555555" stroke="#555555" points="979,-2573 979,-2573 1196,-2573 1196,-2573 979,-2573"/>
+<polygon fill="#555555" stroke="#555555" points="979,-2565 979,-2565 1196,-2565 1196,-2565 979,-2565"/>
+<polygon fill="none" stroke="#555555" points="978.5,-2420 978.5,-2608 1195.5,-2608 1195.5,-2420 978.5,-2420"/>
+</g>
+</g>
+<g transform="translate(753.0 2660.0)">
+<g id="node6" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="1019,-2164 1019,-2310 1155,-2310 1155,-2164 1019,-2164"/>
+<polygon fill="#e8eef7" stroke="transparent" points="1020,-2285 1020,-2309 1154,-2309 1154,-2285 1020,-2285"/>
+<text text-anchor="start" x="1070" y="-2294.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-style="italic" font-size="13.00">User</text>
+<text text-anchor="start" x="1022" y="-2274.2" font-family="Helvetica,sans-Serif" font-size="11.00">#idNo: int</text>
+<text text-anchor="start" x="1022" y="-2258.2" font-family="Helvetica,sans-Serif" font-size="11.00">#lName: String</text>
+<text text-anchor="start" x="1022" y="-2242.2" font-family="Helvetica,sans-Serif" font-size="11.00">#fName: String</text>
+<text text-anchor="start" x="1022" y="-2226.2" font-family="Helvetica,sans-Serif" font-size="11.00">#mName: String</text>
+<text text-anchor="start" x="1022" y="-2210.2" font-family="Helvetica,sans-Serif" font-size="11.00">#password: String</text>
+<text text-anchor="start" x="1022" y="-2194.2" font-family="Helvetica,sans-Serif" font-size="11.00">#failedTries: int</text>
+<text text-anchor="start" x="1022" y="-2178.2" font-family="Helvetica,sans-Serif" font-size="11.00">#mustChange: boolean</text>
+<text text-anchor="start" x="1086" y="-2167.8" font-family="Helvetica,sans-Serif" font-size="4.00"> </text>
+<polygon fill="#555555" stroke="#555555" points="1019,-2285 1019,-2285 1155,-2285 1155,-2285 1019,-2285"/>
+<polygon fill="#555555" stroke="#555555" points="1019,-2173 1019,-2173 1155,-2173 1155,-2173 1019,-2173"/>
+<polygon fill="none" stroke="#555555" points="1019,-2164 1019,-2310 1155,-2310 1155,-2164 1019,-2164"/>
+</g>
+</g>
+<g transform="translate(486.0 2438.0)">
+<g id="node9" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="1004,-1696 1004,-1828 1170,-1828 1170,-1696 1004,-1696"/>
+<polygon fill="#e8eef7" stroke="transparent" points="1005,-1793 1005,-1827 1169,-1827 1169,-1793 1005,-1793"/>
+<text text-anchor="start" x="1055" y="-1814.2" font-family="Helvetica,sans-Serif" font-size="11.00">«singleton»</text>
+<text text-anchor="start" x="1064" y="-1801.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">Admin</text>
+<text text-anchor="start" x="1007" y="-1783.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~role: String</text>
+<text text-anchor="start" x="1007" y="-1767.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~ADMIN_ID: int</text>
+<text text-anchor="start" x="1007" y="-1751.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">&#45;DEFAULT_PASSWORD: String</text>
+<text text-anchor="start" x="1007" y="-1735.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">&#45;instance: Admin</text>
+<text text-anchor="start" x="1007" y="-1718.2" font-family="Helvetica,sans-Serif" font-size="11.00">+getInstance(): Admin</text>
+<text text-anchor="start" x="1007" y="-1702.2" font-family="Helvetica,sans-Serif" font-size="11.00">+load()</text>
+<polygon fill="#555555" stroke="#555555" points="1004,-1793 1004,-1793 1170,-1793 1170,-1793 1004,-1793"/>
+<polygon fill="#555555" stroke="#555555" points="1004,-1729 1004,-1729 1170,-1729 1170,-1729 1004,-1729"/>
+<polygon fill="none" stroke="#555555" points="1004,-1696 1004,-1828 1170,-1828 1170,-1696 1004,-1696"/>
+</g>
+</g>
+<g transform="translate(480.0 2438.0)">
+<g id="node10" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="1260,-1626 1260,-1828 1455,-1828 1455,-1626 1260,-1626"/>
+<polygon fill="#e8eef7" stroke="transparent" points="1261.5,-1803 1261.5,-1827 1454.5,-1827 1454.5,-1803 1261.5,-1803"/>
+<text text-anchor="start" x="1329" y="-1812.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">Student</text>
+<text text-anchor="start" x="1263.5" y="-1793.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~role: String</text>
+<text text-anchor="start" x="1263.5" y="-1777.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~studentList: ArrayList&lt;Student&gt;</text>
+<text text-anchor="start" x="1263.5" y="-1760.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;course: String</text>
+<text text-anchor="start" x="1263.5" y="-1744.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;year: String</text>
+<text text-anchor="start" x="1263.5" y="-1728.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;borrowed: String</text>
+<text text-anchor="start" x="1263.5" y="-1712.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;studentStatus: String</text>
+<text text-anchor="start" x="1263.5" y="-1697.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~Scolumns: String[]</text>
+<text text-anchor="start" x="1263.5" y="-1681.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~status: String[]</text>
+<text text-anchor="start" x="1263.5" y="-1664.2" font-family="Helvetica,sans-Serif" font-size="11.00">+registerAccount()</text>
+<text text-anchor="start" x="1263.5" y="-1648.2" font-family="Helvetica,sans-Serif" font-size="11.00">+loadStudentInfo()</text>
+<text text-anchor="start" x="1263.5" y="-1632.2" font-family="Helvetica,sans-Serif" font-size="11.00">+changeStatus()</text>
+<polygon fill="#555555" stroke="#555555" points="1260.5,-1803 1260.5,-1803 1455.5,-1803 1455.5,-1803 1260.5,-1803"/>
+<polygon fill="#555555" stroke="#555555" points="1260.5,-1675 1260.5,-1675 1455.5,-1675 1455.5,-1675 1260.5,-1675"/>
+<polygon fill="none" stroke="#555555" points="1260,-1626 1260,-1828 1455,-1828 1455,-1626 1260,-1626"/>
+</g>
+</g>
+<g transform="translate(455.0 2438.0)">
+<g id="node11" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="1545,-1642 1545,-1828 1739,-1828 1739,-1642 1545,-1642"/>
+<polygon fill="#e8eef7" stroke="transparent" points="1546,-1803 1546,-1827 1738,-1827 1738,-1803 1546,-1803"/>
+<text text-anchor="start" x="1613" y="-1812.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">Teacher</text>
+<text text-anchor="start" x="1548" y="-1793.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~role: String</text>
+<text text-anchor="start" x="1548" y="-1777.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~teacherList: ArrayList&lt;Teacher&gt;</text>
+<text text-anchor="start" x="1548" y="-1761.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~Tcolumns: String[]</text>
+<text text-anchor="start" x="1548" y="-1745.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~status: String[]</text>
+<text text-anchor="start" x="1548" y="-1728.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;department: String</text>
+<text text-anchor="start" x="1548" y="-1712.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;borrowed: String</text>
+<text text-anchor="start" x="1548" y="-1696.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;teacherStatus: String</text>
+<text text-anchor="start" x="1548" y="-1680.2" font-family="Helvetica,sans-Serif" font-size="11.00">+registerAccount()</text>
+<text text-anchor="start" x="1548" y="-1664.2" font-family="Helvetica,sans-Serif" font-size="11.00">+loadTeacherInfo()</text>
+<text text-anchor="start" x="1548" y="-1648.2" font-family="Helvetica,sans-Serif" font-size="11.00">+changeStatus()</text>
+<polygon fill="#555555" stroke="#555555" points="1545,-1803 1545,-1803 1739,-1803 1739,-1803 1545,-1803"/>
+<polygon fill="#555555" stroke="#555555" points="1545,-1691 1545,-1691 1739,-1691 1739,-1691 1545,-1691"/>
+<polygon fill="none" stroke="#555555" points="1545,-1642 1545,-1828 1739,-1828 1739,-1642 1545,-1642"/>
+</g>
+</g>
+<g transform="translate(684.0 3218.0)">
+<g id="node4" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="1586,-2532 1586,-2608 1698,-2608 1698,-2532 1586,-2532"/>
+<polygon fill="#e8eef7" stroke="transparent" points="1587,-2573 1587,-2607 1697,-2607 1697,-2573 1587,-2573"/>
+<text text-anchor="start" x="1610.5" y="-2594.2" font-family="Helvetica,sans-Serif" font-size="11.00">«interface»</text>
+<text text-anchor="start" x="1602.5" y="-2581.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">SavesLoad</text>
+<text text-anchor="start" x="1641" y="-2567.8" font-family="Helvetica,sans-Serif" font-size="4.00"> </text>
+<text text-anchor="start" x="1589" y="-2554.2" font-family="Helvetica,sans-Serif" font-size="11.00">+toLine(): String</text>
+<text text-anchor="start" x="1589" y="-2538.2" font-family="Helvetica,sans-Serif" font-size="11.00">+toRow(): Object[]</text>
+<polygon fill="#555555" stroke="#555555" points="1586,-2573 1586,-2573 1698,-2573 1698,-2573 1586,-2573"/>
+<polygon fill="#555555" stroke="#555555" points="1586,-2565 1586,-2565 1698,-2565 1698,-2565 1586,-2565"/>
+<polygon fill="none" stroke="#555555" points="1586,-2532 1586,-2608 1698,-2608 1698,-2532 1586,-2532"/>
+</g>
+</g>
+<g transform="translate(114.5 1792.0)">
+<g id="node15" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="1175.5,-600 1175.5,-802 1400.5,-802 1400.5,-600 1175.5,-600"/>
+<polygon fill="#e8eef7" stroke="transparent" points="1177,-777 1177,-801 1400,-801 1400,-777 1177,-777"/>
+<text text-anchor="start" x="1239" y="-786.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">BlockedUsers</text>
+<text text-anchor="start" x="1179" y="-767.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~blockUserscolumns: String[]</text>
+<text text-anchor="start" x="1179" y="-751.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~MAX_TRIES: int</text>
+<text text-anchor="start" x="1179" y="-735.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~blockUsers: ArrayList&lt;BlockedUsers&gt;</text>
+<text text-anchor="start" x="1179" y="-718.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;user: String</text>
+<text text-anchor="start" x="1179" y="-702.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;role: String</text>
+<text text-anchor="start" x="1179" y="-686.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;reason: String</text>
+<text text-anchor="start" x="1179" y="-670.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;date: String</text>
+<text text-anchor="start" x="1179" y="-654.2" font-family="Helvetica,sans-Serif" font-size="11.00">&#45;status: String</text>
+<text text-anchor="start" x="1179" y="-638.2" font-family="Helvetica,sans-Serif" font-size="11.00">+block()</text>
+<text text-anchor="start" x="1179" y="-622.2" font-family="Helvetica,sans-Serif" font-size="11.00">+unblock()</text>
+<text text-anchor="start" x="1179" y="-606.2" font-family="Helvetica,sans-Serif" font-size="11.00">+isBlocked()</text>
+<polygon fill="#555555" stroke="#555555" points="1176,-777 1176,-777 1401,-777 1401,-777 1176,-777"/>
+<polygon fill="#555555" stroke="#555555" points="1176,-649 1176,-649 1401,-649 1401,-649 1176,-649"/>
+<polygon fill="none" stroke="#555555" points="1175.5,-600 1175.5,-802 1400.5,-802 1400.5,-600 1175.5,-600"/>
+</g>
+</g>
+<g transform="translate(277.5 1272.0)">
+<g id="node20" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="1412.5,-160 1412.5,-282 1629.5,-282 1629.5,-160 1412.5,-160"/>
+<polygon fill="#e8eef7" stroke="transparent" points="1414,-257 1414,-281 1629,-281 1629,-257 1414,-257"/>
+<text text-anchor="start" x="1486" y="-266.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">ProfilePic</text>
+<text text-anchor="start" x="1416" y="-247.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~TYPES: String[]</text>
+<text text-anchor="start" x="1416" y="-231.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~MAX_BYTES: long</text>
+<text text-anchor="start" x="1416" y="-215.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~cache: HashMap&lt;String,ImageIcon&gt;</text>
+<text text-anchor="start" x="1416" y="-198.2" font-family="Helvetica,sans-Serif" font-size="11.00">+save()</text>
+<text text-anchor="start" x="1416" y="-182.2" font-family="Helvetica,sans-Serif" font-size="11.00">+load()</text>
+<text text-anchor="start" x="1416" y="-166.2" font-family="Helvetica,sans-Serif" font-size="11.00">+delete()</text>
+<polygon fill="#555555" stroke="#555555" points="1413,-257 1413,-257 1630,-257 1630,-257 1413,-257"/>
+<polygon fill="#555555" stroke="#555555" points="1413,-209 1413,-209 1630,-209 1630,-209 1413,-209"/>
+<polygon fill="none" stroke="#555555" points="1412.5,-160 1412.5,-282 1629.5,-282 1629.5,-160 1412.5,-160"/>
+</g>
+</g>
+<g transform="translate(848.5 1272.0)">
+<g id="node17" class="node">
+
+<polygon fill="#fdfdfd" stroke="transparent" points="1171.5,0 1171.5,-282 1322.5,-282 1322.5,0 1171.5,0"/>
+<polygon fill="#e8eef7" stroke="transparent" points="1173,-257 1173,-281 1322,-281 1322,-257 1173,-257"/>
+<text text-anchor="start" x="1201" y="-266.6" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="13.00">ManageFiles</text>
+<text text-anchor="start" x="1175" y="-247.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~BASE: String</text>
+<text text-anchor="start" x="1175" y="-231.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~EQUIPMENT: String</text>
+<text text-anchor="start" x="1175" y="-215.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~REQUEST: String</text>
+<text text-anchor="start" x="1175" y="-199.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~RULES: String</text>
+<text text-anchor="start" x="1175" y="-183.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~STUDENT: String</text>
+<text text-anchor="start" x="1175" y="-167.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~TEACHER: String</text>
+<text text-anchor="start" x="1175" y="-151.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~BLOCKED: String</text>
+<text text-anchor="start" x="1175" y="-135.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~IMAGE_FOLDER: String</text>
+<text text-anchor="start" x="1175" y="-119.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~PROOF_FOLDER: String</text>
+<text text-anchor="start" x="1175" y="-103.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~PICTURE_FOLDER: String</text>
+<text text-anchor="start" x="1175" y="-87.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~ADMIN: String</text>
+<text text-anchor="start" x="1175" y="-71.2" font-family="Helvetica,sans-Serif" text-decoration="underline" font-size="11.00">~DELETE: String</text>
+<text text-anchor="start" x="1175" y="-54.2" font-family="Helvetica,sans-Serif" font-size="11.00">+loadFile()</text>
+<text text-anchor="start" x="1175" y="-38.2" font-family="Helvetica,sans-Serif" font-size="11.00">+saveFile()</text>
+<text text-anchor="start" x="1175" y="-22.2" font-family="Helvetica,sans-Serif" font-size="11.00">+fillTable()</text>
+<text text-anchor="start" x="1175" y="-6.2" font-family="Helvetica,sans-Serif" font-size="11.00">+copyFile()</text>
+<polygon fill="#555555" stroke="#555555" points="1172,-257 1172,-257 1323,-257 1323,-257 1172,-257"/>
+<polygon fill="#555555" stroke="#555555" points="1172,-65 1172,-65 1323,-65 1323,-65 1172,-65"/>
+<polygon fill="none" stroke="#555555" points="1171.5,0 1171.5,-282 1322.5,-282 1322.5,0 1171.5,0"/>
+</g>
+</g>
+</svg>
